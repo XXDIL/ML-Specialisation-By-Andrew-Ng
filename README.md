@@ -18,3 +18,7 @@ Click on any of the courses you want to jump to:
 5. [Sequence Models](https://github.com/XXDIL/ML-Specialisation-By-Andrew-Ng/tree/master/ML-Specialization/Sequence%20Models)
 
 This is still a work in progress.So you'll have to be a little patient.
+If this is too advanced for you you can begin with a beginner level course : 
+* [Coursera Link](https://www.coursera.org/learn/machine-learning)
+* [ML Beginner Github](https://github.com/XXDIL/ML-Andrew-Ng-Python)
+* [Assignments In Python](https://github.com/dibgerge/ml-coursera-python-assignments) <- If you want to proceed with the course in **python instead of octave**
