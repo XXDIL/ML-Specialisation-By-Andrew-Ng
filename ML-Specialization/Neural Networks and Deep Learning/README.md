@@ -15,7 +15,7 @@ This is the first part of a 5 part series, this course will dive deeper into the
   * Deep Learning
 * **Quiz:** 
   * Deep Learning
-### [Week 2](https://github.com/XXDIL/Neural-Networks-and-Deep-Learning/tree/master/Week2)
+### [Week 2](https://github.com/XXDIL/ML-Specialisation-By-Andrew-Ng/tree/master/ML-Specialization/Neural%20Networks%20and%20Deep%20Learning/Week2)
 * **Lesson Topic**: 
   * Binary Classification
   * Logistic Regression
@@ -29,7 +29,7 @@ This is the first part of a 5 part series, this course will dive deeper into the
   * Python Basics
   * Logistic Regression with Neural Network mindset
   
-### [Week 3](https://github.com/XXDIL/Neural-Networks-and-Deep-Learning/tree/master/Week3)
+### [Week 3](https://github.com/XXDIL/ML-Specialisation-By-Andrew-Ng/tree/master/ML-Specialization/Neural%20Networks%20and%20Deep%20Learning/Week3)
 * **Lesson Topic:**
   * NN Representation
   * Computing a NN's output
@@ -43,7 +43,7 @@ This is the first part of a 5 part series, this course will dive deeper into the
   * Shallow Neural Networks
 * **Assignment:** 
   * Planar data classification with a hidden layer
-### [Week 4](https://github.com/XXDIL/Neural-Networks-and-Deep-Learning/tree/master/Week4)
+### [Week 4](https://github.com/XXDIL/ML-Specialisation-By-Andrew-Ng/tree/master/ML-Specialization/Neural%20Networks%20and%20Deep%20Learning/Week4)
 * **Lesson Topic:** 
   * Deep Layer NN
   * Forward Propagation
@@ -56,4 +56,4 @@ This is the first part of a 5 part series, this course will dive deeper into the
   * Building your Deep Neural Network
   * Deep Neural Network - Application
   
-[Certificate](https://github.com/XXDIL/Neural-Networks-and-Deep-Learning/blob/master/Coursera%20F8JGEKVJCBE9.pdf)
+[Certificate](https://github.com/XXDIL/ML-Specialisation-By-Andrew-Ng/blob/master/ML-Specialization/Neural%20Networks%20and%20Deep%20Learning/Coursera%20F8JGEKVJCBE9.pdf)
