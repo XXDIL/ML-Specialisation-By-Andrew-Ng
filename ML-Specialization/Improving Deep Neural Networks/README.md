@@ -6,7 +6,7 @@ This is the second part of a 5 part series, this course will dive deeper into th
 * Regularization
 * Optimization.
 
-### [Week 1]()
+### [Week 1](https://github.com/XXDIL/ML-Specialisation-By-Andrew-Ng/tree/master/ML-Specialization/Improving%20Deep%20Neural%20Networks/Week1)
 * **Lesson Topic:** 
   * Train-Dev-Test sets
   * Bias and Variance
@@ -23,7 +23,7 @@ This is the second part of a 5 part series, this course will dive deeper into th
   * Initialization
   * Regularization
   * Gradient Checking
-### [Week 2]()
+### [Week 2](https://github.com/XXDIL/ML-Specialisation-By-Andrew-Ng/tree/master/ML-Specialization/Improving%20Deep%20Neural%20Networks/Week2)
 * **Lesson Topic:** 
   * Mini-batch Gradient Descent
   * Exponentially Weighted Averages
@@ -37,7 +37,7 @@ This is the second part of a 5 part series, this course will dive deeper into th
   * Optimization Algorithms
 * **Assignment:** 
   * Optimization
-### [Week 3]()
+### [Week 3](https://github.com/XXDIL/ML-Specialisation-By-Andrew-Ng/tree/master/ML-Specialization/Improving%20Deep%20Neural%20Networks/Week3)
 * **Lesson Topic:** 
   * Tuning Process
   * Hyperparameters Tuning
