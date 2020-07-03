@@ -13,8 +13,8 @@ Click on any of the courses you want to jump to:
 
 1. [Neural Networks and Deep Learning](https://github.com/XXDIL/ML-Specialisation-By-Andrew-Ng/tree/master/ML-Specialization/Neural%20Networks%20and%20Deep%20Learning)
 2. [Improving Deep Neural Networks](https://github.com/XXDIL/ML-Specialisation-By-Andrew-Ng/tree/master/ML-Specialization/Improving%20Deep%20Neural%20Networks)
-3. [Structuring Machine Learning Projects]()
-4. [Convolutional Neural Networks]()
-5. [Sequence Models]()
+3. [Structuring Machine Learning Projects](https://github.com/XXDIL/ML-Specialisation-By-Andrew-Ng/tree/master/ML-Specialization/Structuring%20Machine%20Learning%20Projects)
+4. [Convolutional Neural Networks](https://github.com/XXDIL/ML-Specialisation-By-Andrew-Ng/tree/master/ML-Specialization/Convolutional%20Neural%20Networks)
+5. [Sequence Models](https://github.com/XXDIL/ML-Specialisation-By-Andrew-Ng/tree/master/ML-Specialization/Sequence%20Models)
 
 This is still a work in progress.So you'll have to be a little patient.
