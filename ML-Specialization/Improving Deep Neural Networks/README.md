@@ -52,3 +52,5 @@ This is the second part of a 5 part series, this course will dive deeper into th
   * Programming Frameworks
 * **Assignment:** 
   * TensorFlow
+  
+  Coursera certificate : [Certificate](https://coursera.org/share/955950f141f6cc7b8170794877fd92ad)
